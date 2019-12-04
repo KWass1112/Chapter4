@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\bin\Debug\Hurricane.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\bin\Debug\Hurricane.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\bin\Debug\Hurricane.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\obj\Debug\Hurricane.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\obj\Debug\Hurricane.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Hurricane\Hurricane\obj\Debug\Hurricane.pdb

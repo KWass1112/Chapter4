@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\obj\Debug\RPS.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\RPS\RPS\obj\Debug\RPS.pdb

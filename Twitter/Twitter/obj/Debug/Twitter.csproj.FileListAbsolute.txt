@@ -1,0 +1,6 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Twitter\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Twitter\Twitter\bin\Debug\Twitter.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Twitter\Twitter\bin\Debug\Twitter.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Twitter\Twitter\obj\Debug\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Twitter\Twitter\obj\Debug\Twitter.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Twitter\Twitter\obj\Debug\Twitter.pdb

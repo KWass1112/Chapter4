@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\bin\Debug\Admission.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\bin\Debug\Admission.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\bin\Debug\Admission.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\obj\Debug\Admission.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\obj\Debug\Admission.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\Admission\Admission\obj\Debug\Admission.pdb

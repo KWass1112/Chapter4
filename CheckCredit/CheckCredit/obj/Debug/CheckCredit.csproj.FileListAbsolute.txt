@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.pdb
